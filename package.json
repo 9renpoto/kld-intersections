@@ -73,7 +73,7 @@
     "kld-contours": "^0.3.2",
     "mocha": "^6.2.3",
     "node-static": "^0.7.11",
-    "opn-cli": "^4.1.0",
+    "opn-cli": "^5.0.0",
     "rollup": "^1.32.1",
     "rollup-plugin-babel": "^4.4.0",
     "rollup-plugin-node-resolve": "^4.2.4",
